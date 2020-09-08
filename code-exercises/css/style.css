@@ -2,11 +2,6 @@
 
 }
 
-h1 {
-  font-family: 'Open Sans''arial', sans-serif;
-
-}
-
 button {
   background-color: blue;
   border: none;
@@ -14,6 +9,12 @@ button {
   font-family: 'Open Sans''arial', sans-serif;
   padding: 1em 2em 1em 2em;
 }
+
+h1 {
+  font-family: 'Open Sans''arial', sans-serif;
+
+}
+
 
 .padding-hover:hover {
   background-color: green;
