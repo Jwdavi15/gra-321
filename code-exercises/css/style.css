@@ -27,7 +27,7 @@ h1
 
 .container
 {
-  background-image: url("../kiwi-fruit.jpg");
+  background-image: "../kiwi-fruit.jpg";
   background-size: cover;
   hight:700px;
   margin:0 auto;
