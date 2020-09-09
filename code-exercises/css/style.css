@@ -2,7 +2,8 @@
 
 }
 
-button {
+button
+{
   background-color: blue;
   border: none;
   color:white;
@@ -10,19 +11,22 @@ button {
   padding: 1em 2em 1em 2em;
 }
 
-h1 {
-  font-family: 'Open Sans''arial', sans-serif;
+h1
+{
+  font-family: sans-serif;
 
 }
 
 
-.padding-hover:hover {
+.padding-hover:hover
+{
   background-color: green;
   color: white;
   text-decoration:underline;
 }
 
-.container {
+.container
+{
   background-image:"gra-321\code-exercises\img\kiwi-fruit";
   background-size: cover;
   hight:700px;
