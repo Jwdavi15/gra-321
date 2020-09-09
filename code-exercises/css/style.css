@@ -1,6 +1,8 @@
 * {
 
 }
+body {
+  background-color: SkyBlue;
 
 button
 {
@@ -34,6 +36,7 @@ h1
   width: 50%;
 }
 
+/*---Media Queries---*/
 @media screen and (max-width: 1000px) {
   body {
     background-color: LightSalmon;
