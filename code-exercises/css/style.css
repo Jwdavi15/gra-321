@@ -29,7 +29,7 @@ h1
 
 .container
 {
-  background-image: "../kiwi-fruit.jpg";
+  background-image: url(https://github.com/Jwdavi15/gra-321/blob/master/code-exercises/img/kiwi-fruit.jpg);
   background-size: cover;
   hight:700px;
   margin:0 auto;
