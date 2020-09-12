@@ -30,10 +30,11 @@ h1
 .container
 {
   background-image: url(https://github.com/Jwdavi15/gra-321/blob/master/code-exercises/img/kiwi-fruit.jpg?raw=true);
-  background-size: cover;
-  hight:700px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 700px;
   margin:0 auto;
-  width: 50%;
+  width:50%;
 }
 
 /*---Media Queries---*/
