@@ -1,15 +1,8 @@
 
 body {
-  background-color: SkyBlue;
+  background-color: Blue;
 }
 
-button {
-  background-color: blue;
-  border: none;
-  color:white;
-  font-family: 'Open Sans''arial', sans-serif;
-  padding: 1em 2em 1em 2em;
-}
 
 h1
 {
@@ -21,13 +14,6 @@ h1
 }
 
 
-.padding-hover:hover
-{
-  background-color: green;
-  color: white;
-  text-decoration:underline;
-}
-
 .container
 {
   background-image: url(https://github.com/Jwdavi15/gra-321/blob/master/code-exercises/img/kiwi-fruit.jpg?raw=true);
@@ -36,17 +22,4 @@ h1
   height: 700px;
   margin:0 auto;
   width:50%;
-}
-
-/*---Media Queries---*/
-@media screen and (max-width: 1000px) {
-  body {
-    background-color: LightSalmon;
-}
-}
-
-@media screen and (max-width: 500px) {
-  body {
-    background-color: MediumSeaGreen;
-}
 }
