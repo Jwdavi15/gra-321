@@ -1,13 +1,13 @@
 
 body {
-  background-color: Blue;
+  background-color: white;
 }
 
 
 h1
 {
   font-family: sans-serif;
-  color: MediumSeaGreen;
+  color: black;
   font-size:52px;
   position:relative;
   text-align:center;
