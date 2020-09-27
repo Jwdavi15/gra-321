@@ -13,13 +13,110 @@ h1
   text-align:center;
 }
 
+h2
+{
+  font-family: sans-serif;
+  color: black;
+  font-size: 61px;
+  letter-spacing: normal;
+
+}
+
+p1
+{
+  font-family: serif;
+  color: black;
+  font-size: 36px;
+  line-height: 40px;
+
+}
+
+p2
+{
+  font-family: sans-serif;
+  color: black;
+  font-size: 20px;
+  line-height: 27px;
+
+}
+
+p3
+{
+  font-family: sans-serif;
+  color: black;
+  font-size: 20px;
+  line-height: 15px;
+
+}
+
 
 .container
 {
-  background-image: url(https://github.com/Jwdavi15/gra-321/blob/master/code-exercises/img/kiwi-fruit.jpg?raw=true);
-  background-size: contain;
-  background-repeat: no-repeat;
-  height: 700px;
-  margin:0 auto;
-  width:50%;
+
+  margin:20 auto;
+  padding-left: 6%;
+  padding-right: 6%;
+  padding-bottom: 3%;
+
+}
+
+.header-container
+{
+
+  margin-right: 6%;
+  margin-bottom: 2.75%;
+  background-color: white;
+  margin:20 auto;
+  height: 65px;
+  width: 699px;
+}
+
+.caption-container
+{
+
+  margin-bottom: 3.7%;
+  background-color: white;
+  height: 76px;
+  width: 889px;
+}
+
+.body-container1
+{
+  margin-right: 11.5%;
+  display: inline-block;
+  background-color: white;
+  height: 184px;
+  width: 479px;
+}
+
+.body-container2
+{
+  display: inline-block;
+  background-color: white;
+  height: 184px;
+  width: 479px;
+}
+
+
+.big-container
+{
+
+  margin-left: 6%;
+  margin-right: 6%;
+  margin-bottom: 6%;
+  background-color: white;
+  margin:20 auto;
+  height: 396px;
+  width: 1088px;
+
+}
+
+.page-container
+{
+  margin-left: 1045px;
+  background-color: white;
+  margin:20 auto;
+  height: 15px;
+  width: 251px;
+
 }
