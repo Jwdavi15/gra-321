@@ -35,9 +35,8 @@ h1
   background-image: url(https://github.com/Jwdavi15/gra-321/blob/master/code-exercises/img/kiwi-fruit.jpg?raw=true);
   background-size: contain;
   background-repeat: no-repeat;
-  height: 700px;
-  margin:0 auto;
-  width:50%;
+  height: 300px;
+  width:700px;
 }
 
 /*---Media Queries---*/
