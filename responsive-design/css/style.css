@@ -2,14 +2,14 @@
 
 h1 {
   font-family: sans-serif;
-  font-size: 25px;
+  font-size: 70px;
   font-weight: semi-bold
 
 }
 
 h2 {
   font-family: sans-serif;
-  font-size: 5px;
+  font-size: 50px;
   font-weight: bold;
   line-height: 22px;
 }
@@ -50,13 +50,15 @@ h2 {
 }
 
 p1 {
-  font-size: 15px;
-  line-height: 22px;
+  font-family: sans-serif;
+  font-size: 50px;
+  line-height: 76px;
 }
 
 p2{
-  font-size: 13px;
-  line-height: 22px;
+  font-family: sans-serif;
+  font-size: 40px;
+  line-height: 76px;
 }
 
 header {
@@ -111,7 +113,7 @@ ul.menu-items a {
 }
 
 /*Desktop Styles*/
-@media only screen and (min-width: 600px) {
+@media only screen and (min-width: 700px) {
   .header-nav {
   background-color: white;
   width:100%;
