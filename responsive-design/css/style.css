@@ -82,6 +82,18 @@ h2 {
   margin-right: 10%;
 }
 
+.gallery-container {
+  margin-bottom: 10%;
+  margin-left: 5%;
+  margin-right: 5%;
+  justify-content: space-between;
+}
+
+#food {
+  width: 93.5%;
+  object-fit:cover;
+}
+
 p1 {
   font-family: sans-serif;
   font-size: 15px;
@@ -251,7 +263,7 @@ header {
 
 .gallery-container {
   margin-bottom: 10%;
-  margin-left: 10%;
+  margin-left: 5%;
   margin-right: 5%;
   display: flex;
   justify-content: space-between;
@@ -342,6 +354,7 @@ margin-right: 0%;
 #hot-drink {
   width: 250px;
   height: 250px;
+  align-items: left;
 }
 
 #cold-drink {
